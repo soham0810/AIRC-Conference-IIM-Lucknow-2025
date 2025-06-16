@@ -1,2 +1,10 @@
 # AIRC-Conference-IIM-Lucknow-2025
 Research paper titled "Lightweight Cryptography: An Overview" accepted and presented at the 4th Annual International Research Conference (AIRC) organized by IIM Lucknow
+
+AIRC explores the transformative power of artificial intelligence and its growing impact across industries. This year’s theme, “Managing and Working with Artificial Intelligence: Shaping the Future Together,” emphasizes the importance of harmonizing human ingenuity with AI capabilities to drive meaningful innovation and solve complex challenges.
+
+Abstract:
+The rapid growth of IoT (Internet of Things) devices has revolutionized modern life, enabling intelligent solutions in urban planning, industrial automation, and healthcare. However, the limited memory, energy, and processing capabilities of these devices present significant challenges for traditional cryptography. Lightweight cryptography (LWC) has emerged as a vital solution, ensuring security within these constraints.
+This work provides an overview of lightweight cryptography, highlighting its design principles, key algorithms like ASCON, PRESENT, and GIFT, and applications in IoT settings. ASCON, recognized as the NIST standard, exemplifies efficient authentication and encryption with minimal resource usage. LWC emphasizes resource optimization, efficiency, and simplicity through techniques like modular arithmetic and reduced computational complexity. 
+Applications span domains such as wearable technology, sensor networks, and smart homes. For instance, LWC protects real-time data in healthcare IoT devices and secures communication in smart city ecosystems. Future directions include developing quantum-resilient cryptography, enhancing defences against side-channel attacks, and advancing energy-efficient cryptographic systems. Collaboration between academia, industry, and standards bodies is crucial to achieving these goals. 
+In conclusion, lightweight cryptography plays a pivotal role in enabling secure, scalable solutions for billions of connected devices, driving secure digital transformation in resource-constrained environments. 
