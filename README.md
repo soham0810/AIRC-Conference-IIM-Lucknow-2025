@@ -1,4 +1,4 @@
-# AIRC-Conference-IIM-Lucknow-2025
+# 4th AIRC-Conference-IIM-Lucknow-2025
 Research paper titled "Lightweight Cryptography: An Overview" accepted and presented at the 4th Annual International Research Conference (AIRC) organized by IIM Lucknow
 
 AIRC explores the transformative power of artificial intelligence and its growing impact across industries. This year’s theme, “Managing and Working with Artificial Intelligence: Shaping the Future Together,” emphasizes the importance of harmonizing human ingenuity with AI capabilities to drive meaningful innovation and solve complex challenges.
